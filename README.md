@@ -1,16 +1,13 @@
-### Hi there 👋
+# 😀 SeungChul Kim
 
-<!--
-**rlatmdcjf28/rlatmdcjf28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interesting
+- DeepLearning
+- Computer Vision
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Development Environment
+- Python - 3.8.10
+- TensorFlow - 2.11.0
+- GPU - NVIDIA GeForce GTX 1650
+- Nvidia Driver Version - 470.199.02
+- Cuda - 11.2
+- cuDnn - 8.1.1
