@@ -1,4 +1,4 @@
-# 😀 SeungChul Kim
+# 😀 SeungChul Kim(1999.02.08)
 
 ## Interesting
 - DeepLearning
