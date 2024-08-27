@@ -4,7 +4,7 @@
 - DeepLearning
 - Computer Vision
 - Object Detection (Anchor Free)
-- Quantization
+- Transformer for Image Classification, object detection, segmentation
 
 ## Development Environment
 - Python - 3.10.X
